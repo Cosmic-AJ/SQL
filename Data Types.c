@@ -44,6 +44,5 @@ void main(){
    printf("Signed Long        %d\n",sizeof(long));
    printf("Unsigned long      %d\n",sizeof(unsigned long));
    printf("Long Long          %d\n",sizeof(long long));
-   printf("Unsigned Long Long %u\n",sizeof(unsigned long long));
-   getch();
+   printf("Unsigned Lo);
 }
